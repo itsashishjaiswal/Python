@@ -11,7 +11,7 @@ classifiers = [
 setup(
   name='Magiccal',
   version='1.0.0',
-  description='A very basic calculator',
+  description='Calculate 11 different complex calculations like Data, BMI, GST, Discount, Date, Age, Time, Decimal, Temperature, Speed, Pressure',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/itsashishjaiswal/PythonLibraries/tree/main/MagiccalLibrary',  
   author='Ashish Jaiswal',
