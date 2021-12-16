@@ -1,1 +1,0 @@
-This is a very simple calculator called magical calculator
