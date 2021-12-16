@@ -1,1 +1,1 @@
-This is a very simple calculator called magical calculator
+All the Python Libraries shall be added here for the references.
